@@ -19,7 +19,7 @@ A **Project** — specifically, an Open Source Software project — includes the
 
 { Definition of when and how to use OSS software, observation of type of use and license concerns }
 
-## Contributing to a established OSS project
+## Contributing to an established OSS project
 
 { Anyone can contribute in an OSS project }
 
