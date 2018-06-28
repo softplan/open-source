@@ -7,7 +7,11 @@ This document describes the open source policy at [Softplan][]. This Policy must
 
 ## Definition
 
+**Using** explains how we bring open source code into the company and use it to help build great products. We carefully analyse projects to help us maintain license compliance.
+
 **Contribution** is a tangible product created by individuals that help advance an Open Source Software project. Examples of contributions include: programming, bug fixes, issue reports, feature suggestions, and documentation.
+
+**Creating** covers how Softplayers release code that they've written, either in the form of a new standalone project or as a patch to an external project. 
 
 **Open Source Software** (OSS) is "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" (http://opensource.org/) and is distributed under a license approved by the Open Source Initiative, e.g. one of the licenses recommended below.
 
@@ -26,13 +30,25 @@ A **Project** — specifically, an Open Source Software project — includes the
 { Which projects are allowed to contribute in working hours }
 
 
-## Publishing an OSS project
+## Creating an OSS project
 
-{ What can / cannot be published }
+Prepare the project for release. 
 
-{ How should be published }
+{releasing rules}
 
-{ License concerns, proposition of acceptable licenses }
+{Quality rules}
+
+{Documentation rules}
+
+Getting approval.
+
+{approval rules}
+
+Maintening the project. 
+
+{Definition of responsability}
+
+{Definition of accepting contribuitions}
 
 ## Attribution
 
@@ -45,6 +61,8 @@ Thanks to the mentioned for sharing their work.
 
 ## License
 
+Follow the license rules;
+{create license rules}
 This work is licensed under a [Creative Commons Attribution 4.0 International License][CC-by-4.0].
 
 ![][CC-by-4.0-logo]
